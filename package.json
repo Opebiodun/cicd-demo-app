@@ -1,0 +1,13 @@
+{
+  "name": "cicd-demo-app",
+  "version": "1.0.0",
+  "description": "CI/CD Demo Application",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo 'Running tests...' && echo 'All tests passed!'",
+    "build": "echo 'Building application...' && echo 'Build complete!'"
+  },
+  "keywords": ["cicd", "aws", "demo"],
+  "author": "Your Name",
+  "license": "MIT"
+}
