@@ -40,7 +40,7 @@ variable "key_name" {
 variable "my_ip" {
   description = "Your IP address for SSH access (CIDR notation)"
   type        = string
-  default     = "169.150.197.116/32"
+  default     = "************/32"
   # Change to your IP: "YOUR_IP/32"
 }
 
